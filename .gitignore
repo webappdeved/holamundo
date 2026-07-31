@@ -1,0 +1,18 @@
+# --- PYTHON (Archivos temporales) ---
+__pycache__/
+*.py[cod]
+venv/
+.env
+
+# --- VS CODE (Configuraciones de entorno) ---
+.vscode/
+
+# --- WINDOWS (Basura del sistema) ---
+Thumbs.db
+desktop.ini
+
+# --- EXCLUSIONES CRÍTICAS LPR ---
+# No subir archivos ejecutables ni pesados
+*.exe
+*.msi
+*.bin
