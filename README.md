@@ -1,13 +1,17 @@
-# ?? Proyecto: Mi Primer Hola Mundo — LPR 2026
-## Escuela de Educación Secundaria Técnica N° 1 "Eduardo Ader"
+# ğŸš€ Proyecto: Mi Primer Hola Mundo â€” LPR 2026
 
-* **Curso:** 5° Año — Especialidad Computación / Programación
-* **Materia:** Laboratorio de Programación (LPR)
+## Escuela de EducaciÃ³n Secundaria TÃ©cnica NÂ° 1 "Eduardo Ader"
+
+* **Curso:** 5Â° AÃ±o â€” Especialidad ComputaciÃ³n / ProgramaciÃ³n
+* **Materia:** Laboratorio de ProgramaciÃ³n (LPR)
 * **Profesor:** Prof. York
 
 ---
 
-## ?? Comandos de PowerShell para Windows 10/11:
-Asegúrate de estar parado en la raíz de la carpeta `HOLAMUNDO` en tu terminal.
+## ğŸƒ Comandos de PowerShell para Windows 10/11:
 
-1. **Compilar el código fuente:**
+AsegÃºrate de estar parado en la raÃ­z de la carpeta `HOLAMUNDO` en tu terminal.
+
+1. **Compilar el cÃ³digo fuente:**
+   ```powershell
+   g++ src/main.cpp -o src/holamundo.exe
