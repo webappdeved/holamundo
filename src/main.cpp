@@ -23,6 +23,7 @@ int main() {
     cout << "=====================================================" << endl;
     cout << "  Hola Mundo! Bienvenido al Taller de LPR 2026.      " << endl;
     cout << "  Docente: Mansilla Munoz York   " << endl;
+    cout << "  Estudiante: Edul Gaston   " << endl;
     cout << "=====================================================" << endl;
 
     return 0; // Le indica al sistema operativo Windows 11 que el programa finalizo con exito (codigo 0)
