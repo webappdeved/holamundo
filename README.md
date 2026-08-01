@@ -1,4 +1,4 @@
-# 🚀 Proyecto: Mi Primer Hola Mundo (Taller del Programador) — LPR 2026
+# 🚀 Proyecto: (Hola Mundo) — LPR 2026
 
 ## Escuela de Educación Secundaria Técnica N° 1 "Eduardo Ader" — Vicente López
 
@@ -43,8 +43,8 @@ Asegúrate de abrir la terminal integrada de VS Code (`Ctrl + Ñ`) y estar parad
    
 2. **Compilar el código fuente modular:**
    ```powershell
-   g++ src/main.cpp -o src/area.exe
+   g++ ./src/main.cpp -o ./src/holamundo.exe
    
 3. **Ejecutar la aplicación:**
    ```powershell
-   .\src\area.exe
+   ./src/holamundo.exe
