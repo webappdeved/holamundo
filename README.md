@@ -1,6 +1,6 @@
 # 🚀 Proyecto: (Hola Mundo) — LPR 2026
 
-## Escuela de Educación Secundaria Técnica N° 1 "Eduardo Ader" — Vicente López
+## Escuela de Educación Secundaria Técnica N° 10 "The Avengers" — Vicente López
 
 * **Curso:** 5° Año — Especialidad Informática / Programación
 * **Materia:** Laboratorio de Programación (LPR)
