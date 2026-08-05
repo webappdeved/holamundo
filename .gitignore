@@ -1,9 +1,3 @@
-# --- PYTHON (Archivos temporales) ---
-__pycache__/
-*.py[cod]
-venv/
-.env
-
 # --- VS CODE (Configuraciones de entorno) ---
 .vscode/
 
@@ -16,3 +10,7 @@ desktop.ini
 *.exe
 *.msi
 *.bin
+*.pdf_preview
+
+# --- CARPETAS DE DATOS TEMPORALES ---
+/backend/__pycache__/

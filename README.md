@@ -2,7 +2,7 @@
 
 ## Escuela de Educación Secundaria Técnica N° 1 "Eduardo Ader" — Vicente López
 
-* **Curso:** 5° Año — Especialidad Computación / Programación
+* **Curso:** 5° Año — Especialidad Informática / Programación
 * **Materia:** Laboratorio de Programación (LPR)
 * **Profesor:** Prof. York
 * **Estudiante:** Argento Coqui
