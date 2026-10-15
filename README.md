@@ -5,7 +5,7 @@
 * **Curso:** 5° Año — Especialidad Informática / Programación
 * **Materia:** Laboratorio de Programación (LPR)
 * **Profesor:** Prof. York
-* **Estudiante:** Argento Coqui
+* **Estudiante:** Argento Coqui y Lionel Andrés Messi Cuccittini
 
 ---
 
@@ -18,7 +18,7 @@ Esta actividad corresponde a la configuración inicial del Entorno de Desarrollo
 ## 👥 Integrantes (Entrega Individual)
 
 * **Estudiante:** Argento Coqui
-* **Curso / Grupo:** 5° — Grupo A/B
+* **Curso / Grupo:** 5° 
 * **Especialidad:** Técnico en Informática/Programación
 
 ---
@@ -35,7 +35,7 @@ Para compilar y ejecutar este proyecto en tu computadora con Windows 10/11, nece
 
 ## 🏃 Comandos de PowerShell para Windows 10/11 en Visual Studio Code (Mejorado)
 
-Asegúrate de abrir la terminal integrada de VS Code (`Ctrl + Ñ`) y estar parado en la raíz de la carpeta `HOLAMUNDO`.
+Asegúrate de abrir la terminal integrada de VS Code (`Ctrl + Ñ`) y estar parado en la raíz de la carpeta `holamundo`.
 
 1. **Verificar que el compilador esté disponible en el sistema:**
    ```powershell
